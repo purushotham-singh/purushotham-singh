@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, Welcome to my GitHub profile!
 
-<!--
-**purushotham-singh/purushotham-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Your Name**, a Software Engineer passionate about Full Stack Development, AI, and System Design.  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: [Your Project](link)
+- 🌱 Learning: Cloud, Distributed Systems
+- 👯 Looking to collaborate on: Open Source & Research Projects
+- 💬 Ask me about: Java, Spring Boot, System Design, AI
+- 📫 Reach me at: your.email@example.com  
+- ⚡ Fun fact: I love solving Leetcode problems & building 3D projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with me
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://yourwebsite.com) | [Twitter](https://x.com/YOUR_HANDLE)  
+
+---
+
+### 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=awesome-system-design-resources)](https://github.com/YOUR_USERNAME/awesome-system-design-resources)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=awesome-low-level-design)](https://github.com/YOUR_USERNAME/awesome-low-level-design)  
