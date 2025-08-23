@@ -1,7 +1,7 @@
 # Hi there 👋 I am Purushotham Kumar Singh  
 I love problem solving  🚀  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black)](https://leetcode.com/u/purushotham03singh/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=plastic&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/purushotham_singh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/purushotham03singh/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/purushotham_singh/)
 
 ### ✨ Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=purushotham-singh&color=green)  
