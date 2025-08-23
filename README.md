@@ -4,9 +4,8 @@ I love problem solving and building cool projects 🚀
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning **Full Stack Development | ML & DL |**  
+- 🌱 I’m currently learning **Spring Boot, Machine Learning, Deep Learning**  
 - 👨‍🎓 I'm a **CSE Student at Malla Reddy College of Engineering & Technology (MRCET)**  
-- 🥺 I’m looking for help with **Spring Boot, Advanced React, Cloud Deployment**  
 - 📫 How to reach me: **purushotham03singh@gmail.com**  
 - 🔗 Connect with me: [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/purushothamsingh/)) | [Instagram]([https://instagram.com/YOUR-INSTA](https://www.instagram.com/purushotham_singh_/))  
 
