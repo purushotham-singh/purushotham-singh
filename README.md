@@ -1,28 +1,33 @@
-# Hi there 👋, Welcome to my GitHub profile!
-
-I'm **Your Name**, a Software Engineer passionate about Full Stack Development, AI, and System Design.  
-
-- 🔭 Currently working on: [Your Project](link)
-- 🌱 Learning: Cloud, Distributed Systems
-- 👯 Looking to collaborate on: Open Source & Research Projects
-- 💬 Ask me about: Java, Spring Boot, System Design, AI
-- 📫 Reach me at: your.email@example.com  
-- ⚡ Fun fact: I love solving Leetcode problems & building 3D projects
+# Hi there 👋 I am Purushotham Kumar Singh  
+I love problem solving and building cool projects 🚀  
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+### 👨‍💻 About Me  
+- 🌱 I’m currently learning **Full Stack Development | ML & DL |**  
+- 👨‍🎓 I'm a **CSE Student at Malla Reddy College of Engineering & Technology (MRCET)**  
+- 🥺 I’m looking for help with **Spring Boot, Advanced React, Cloud Deployment**  
+- 📫 How to reach me: **purushotham03singh@gmail.com**  
+- 🔗 Connect with me: [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/purushothamsingh/)) | [Instagram]([https://instagram.com/YOUR-INSTA](https://www.instagram.com/purushotham_singh_/))  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+---
+ 
+
+### 🛠️ My Favorite Tools  
+
+#### 👨‍💻 Programming Languages  
+-  Java & Python  
+
+#### 🧰 Frameworks & Libraries  
+- Spring Boot,
+
+#### 🗄️ Databases & Cloud Hosting  
+- MySQL & MongoDB
+
+#### 💻 Software & Tools  
+- Git, GitHub, Jupyter, Postman
 
 ---
 
-### 🔗 Connect with me
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](https://yourwebsite.com) | [Twitter](https://x.com/YOUR_HANDLE)  
-
----
-
-### 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=awesome-system-design-resources)](https://github.com/YOUR_USERNAME/awesome-system-design-resources)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=awesome-low-level-design)](https://github.com/YOUR_USERNAME/awesome-low-level-design)  
+### ✨ Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=purushotham-singh&color=green)  
